@@ -1,0 +1,27 @@
+{
+  "name": "esperanto",
+  "version": "0.0.0",
+  "description": "An API-driven CMS",
+  "main": "index.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/stellarashes/esperanto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+	"url": "https://github.com/stellarashes/esperanto/issues"
+  },
+  "homepage": "https://github.com/stellarashes/esperanto#readme",
+  "dependencies": {
+	"bower": "^1.4.1",
+	"express": "^4.13.3"
+  },
+  "devDependencies": {
+	"tsc": "^1.20150623.0",
+	"tsd": "^0.6.3"
+  }
+}
